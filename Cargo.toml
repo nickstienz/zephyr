@@ -1,0 +1,5 @@
+[workspace]
+
+members = [
+  "zephyr_interpreter",
+]

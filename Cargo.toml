@@ -2,5 +2,5 @@
 
 members = [
   "zephyr_interpreter",
-  "zephyr_standard",
-  ]
+  "zephyr_core",
+]

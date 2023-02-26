@@ -1,0 +1,14 @@
+[build]
+rustflags = [
+  "-D", "unsafe_code",
+  "-W", "missing_docs",
+  "-W", "unused_imports",
+  "-W", "unused_variables",
+  "-D", "dead_code",
+  "-D", "unused_must_use",
+  "-D", "unreachable_patterns",
+  "-D", "ambiguous_associated_items",
+  "-D", "unused_qualifications",
+  "-D", "renamed_and_removed_lints",
+  "-D", "unconditional_panic",
+]
